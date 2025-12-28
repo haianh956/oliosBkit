@@ -1,5 +1,5 @@
 {
-  "OLIOS-PERM-001": {},
-  "OLIOS-PERM-002": {},
-  "OLIOS-VIP-999": {}
+  "OLIOS-PERM-001": { "hwid": "" },
+  "OLIOS-PERM-002": { "hwid": "" },
+  "OLIOS-VIP-999":  { "hwid": "" }
 }
